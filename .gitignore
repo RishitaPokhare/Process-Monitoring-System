@@ -1,0 +1,27 @@
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+backend/.venv/
+.env
+*.env
+
+# React / Node
+node_modules/
+frontend/node_modules/
+build/
+frontend/build/
+npm-debug.log*
+package-lock.json.tmp
+
+# IDE
+.vscode/
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
